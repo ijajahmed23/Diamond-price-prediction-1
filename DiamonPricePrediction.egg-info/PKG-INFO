@@ -5,5 +5,8 @@ Author: IjajAhmed
 Author-email: ijajahmed1997@gmail.com
 Requires: pandas
 Requires: numpy
+<<<<<<< HEAD
 Requires: seaborn
+=======
+>>>>>>> 59f5bec (first commit)
 Requires: flask

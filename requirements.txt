@@ -1,6 +1,11 @@
 pandas
 numpy
+<<<<<<< HEAD
 seaborn
 flask
 scikit-learn
 #-e .
+=======
+flask
+-e .
+>>>>>>> 59f5bec (first commit)
